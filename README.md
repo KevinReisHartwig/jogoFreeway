@@ -13,7 +13,7 @@ Curso de Lógica de programação: laços e listas com Javascript.
 <br>
 
 <p align="center">
-  <img alt="Imagem do jogo Freeway" src=".github/preview.png" width="100%">
+  <img alt="Imagem do jogo Freeway" src="pfc.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
